@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "County-hosted (custom)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Warren County (Official Site)", category: "Government", subcategory: "County", url: "https://www.warrencountyohio.gov/", description: "Official government portal for Warren County, Ohio (county seat: Lebanon)." },
